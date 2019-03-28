@@ -1,0 +1,23 @@
+#txtr {
+    background-color:white;
+    resize: none;
+    border: 5px solid lightgray;
+    border-radius: 20px;
+    box-sizing: border-box;
+    display: block;
+    padding: 15px;
+    color: black;
+}
+
+#chcbx{
+    width: 25px;
+    height: 25px;
+    display: block;
+    cursor: pointer;
+}
+
+#chcbx:hover{
+    box-shadow: 3px 3px lightgray;  
+}
+
+
